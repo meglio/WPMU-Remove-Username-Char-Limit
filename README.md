@@ -1,0 +1,1 @@
+Removes username char limit in Multisite Setup; introduces new limit to min 2 chars instead of 4.
